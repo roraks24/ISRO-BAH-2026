@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and Editor configs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Data and Cache directories (MAST / lightkurve caches)
+data/
+*.fits
+*.npz
+*.npy
+
+# Generated Results (Keep report docs, but ignore heavy outputs)
+results/plots/
+results/*.csv
+results/pipeline_summary_report.txt
+
+# Large PowerPoint Templates and Presentations
+*.pptx
+*[Pub]*.pptx
+[Pub]*.pptx
+

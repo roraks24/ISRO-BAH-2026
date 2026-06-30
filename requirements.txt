@@ -1,0 +1,15 @@
+lightkurve>=2.4
+transitleastsquares>=1.0.31
+batman-package>=2.4
+astropy>=5.3
+astroquery>=0.4
+scipy>=1.11
+numpy>=1.24
+matplotlib>=3.7
+scikit-learn>=1.3
+pandas>=2.0
+emcee>=3.1
+tqdm>=4.65
+seaborn>=0.12
+wotan>=1.4
+corner>=2.2
